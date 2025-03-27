@@ -1,5 +1,3 @@
-# sitema_gestao_leo
-
 Antonio Vinicius Oni Sousa Silva (RM: 560235) 
 Guilherme Terzi Gonzalez (RM: 560175) 
 Gustavo Gimenez Gozzi (RM: 560053) 
